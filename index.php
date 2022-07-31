@@ -46,9 +46,10 @@
                             include("editar-usuario.php");
                             break;
                             default:
-                            print '<h1>Bem Vindo ao CRUD SEJUSP/DEPEM</h1>';
+                            print '<h1>Bem Vindo ao CRUD Policia Penal</h1>';
                 }
             ?>
+          <img src="css/Img/policiapenal.png" alt="">
 
         </div>
     </div>
